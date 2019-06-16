@@ -15,11 +15,11 @@ public class SeleniumTest {
 	
 	@Test
 	public void Method1() {
-		System.out.println("Method5");
+		System.out.println("Method1");
 	}
 	
 	@Test
    public void Method2() {
-		System.out.println("Method6");
+		System.out.println("Method2");
 	}
 }
