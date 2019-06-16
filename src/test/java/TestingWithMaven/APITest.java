@@ -13,4 +13,14 @@ public class APITest {
    public void Method2() {
 		System.out.println("Method2");
 	}
+
+	@Test
+	public void Method3() {
+		System.out.println("Method3");
+	}
+	
+	@Test
+   public void Method4() {
+		System.out.println("Method4");
+	}
 }
