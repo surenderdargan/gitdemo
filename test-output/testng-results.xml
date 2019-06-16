@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-28T19:23:38Z" name="Suite" finished-at="2019-04-28T19:23:38Z" duration-ms="83">
+    <groups>
+    </groups>
+    <test started-at="2019-04-28T19:23:38Z" name="Test" finished-at="2019-04-28T19:23:38Z" duration-ms="83">
+      <class name="TestingWithMaven.APITest">
+        <test-method signature="Method1()[pri:0, instance:TestingWithMaven.APITest@4c178a76]" started-at="2019-04-28T19:23:38Z" name="Method1" finished-at="2019-04-28T19:23:38Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method1 -->
+        <test-method signature="Method2()[pri:0, instance:TestingWithMaven.APITest@4c178a76]" started-at="2019-04-28T19:23:38Z" name="Method2" finished-at="2019-04-28T19:23:38Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method2 -->
+      </class> <!-- TestingWithMaven.APITest -->
+      <class name="TestingWithMaven.AppiumTest">
+        <test-method signature="Method3()[pri:0, instance:TestingWithMaven.AppiumTest@2362f559]" started-at="2019-04-28T19:23:38Z" name="Method3" finished-at="2019-04-28T19:23:38Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method3 -->
+        <test-method signature="Method4()[pri:0, instance:TestingWithMaven.AppiumTest@2362f559]" started-at="2019-04-28T19:23:38Z" name="Method4" finished-at="2019-04-28T19:23:38Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method4 -->
+      </class> <!-- TestingWithMaven.AppiumTest -->
+      <class name="TestingWithMaven.SeleniumTest">
+        <test-method signature="Method5()[pri:0, instance:TestingWithMaven.SeleniumTest@b2c9a9c]" started-at="2019-04-28T19:23:38Z" name="Method5" finished-at="2019-04-28T19:23:38Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method5 -->
+        <test-method signature="Method6()[pri:0, instance:TestingWithMaven.SeleniumTest@b2c9a9c]" started-at="2019-04-28T19:23:38Z" name="Method6" finished-at="2019-04-28T19:23:38Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method6 -->
+      </class> <!-- TestingWithMaven.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
